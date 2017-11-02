@@ -3,7 +3,7 @@
 
 ## AnyKernel setup
 # EDIFY properties
-kernel.string=Werewolf by USA-RedDragon @ xda-developers
+kernel.string=Scorpion by BlackScorpion3 @ xda-developers
 do.devicecheck=0
 do.initd=1
 do.modules=1
